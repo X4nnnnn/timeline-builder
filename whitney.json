@@ -150,6 +150,20 @@
         "headline": "The Age of Generative AI",
         "text": "<p>The rise of large-scale AI models like GPT, DALL·E, and other generative systems marks a new era. AI is now part of everyday life, powering chatbots, creative tools, and automation across industries.</p>"
       }
-    }
+    },{
+  "media": {
+    "url": "https://cdn-icons-png.flaticon.com/512/2991/2991110.png",
+    "caption": "",
+    "credit": "Flaticon"
+  },
+  "start_date": {
+    "year": "2025"
+  },
+  "text": {
+    "headline": "Citations",
+    "text": "Use APA format for at least 3 credible sources:<br><br>TechTarget. (2023). <i>History and evolution of machine learning: A timeline</i>. TechTarget. <a href='https://www.techtarget.com/whatis/feature/History-and-evolution-of-machine-learning-A-timeline'>https://www.techtarget.com/whatis/feature/History-and-evolution-of-machine-learning-A-timeline</a><br><br>Cornell Chronicle. (2019). <i>Professor’s perceptron paved the way for AI—60 years too soon</i>. Cornell University. <a href='https://news.cornell.edu/stories/2019/09/professors-perceptron-paved-way-ai-60-years-too-soon'>https://news.cornell.edu/stories/2019/09/professors-perceptron-paved-way-ai-60-years-too-soon</a><br><br>Metz, C. (2016, March 15). <i>Google’s AlphaGo beats Lee Sedol in man vs. machine battle</i>. CNET. <a href='https://www.cnet.com/tech/tech-industry/google-alphago-artificial-intelligence-victor-in-game-of-man-vs-machine/'>https://www.cnet.com/tech/tech-industry/google-alphago-artificial-intelligence-victor-in-game-of-man-vs-machine/</a>"
+  }
+}
+
   ]
 }
