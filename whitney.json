@@ -57,7 +57,7 @@
       "media": {
         "url": "https://www.youtube.com/watch?v=S5AGN9XfPK4",
         "caption": "Geoffrey Hinton’s backpropagation breakthrough.",
-        "credit": "<a href=''>TechTarget</a>"
+        "credit": "<a href='https://www.youtube.com/channel/UCKWaEZ-_VweaEx1j62do_vQ'>IBM Technology</a>"
       },
       "start_date": {
         "year": "1986"
@@ -71,7 +71,7 @@
       "media": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Deep_Blue.jpg/250px-Deep_Blue.jpg",
         "caption": "IBM’s Deep Blue vs. Garry Kasparov.",
-        "credit": "<a href=''>TechTarget</a>"
+        "credit": "Photo:<a href='https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Deep_Blue.jpg/250px-Deep_Blue.jpg'>Wikimedia</a>"
       },
       "start_date": {
         "year": "1997"
@@ -85,7 +85,7 @@
       "media": {
         "url": "https://miro.medium.com/v2/resize:fit:720/format:webp/1*SHlrai8hpXByy-McxDQ-vQ.png",
         "caption": "Geoffrey Hinton – the 'Godfather of Deep Learning.'",
-        "credit": "<a href=''>TechTarget</a>"
+        "credit": "<a href='https://medium.com/@vibusquet/the-godfather-of-deep-learning-2f8d38ed8a79'>Medium</a>"
       },
       "start_date": {
         "year": "2006"
@@ -99,7 +99,7 @@
       "media": {
         "url": "https://miro.medium.com/1*S1ob5XC6W8O8JC_x0oVpsw.jpeg",
         "caption": "AlexNet’s ImageNet victory.",
-        "credit": "<a href=''>TechTarget</a>"
+        "credit": "<a href='https://medium.com/@ssteni/imagenet-what-why-and-how-e5ebed04abb5'>Medium</a>"
       },
       "start_date": {
         "year": "2012"
@@ -111,9 +111,9 @@
     },
     {
       "media": {
-        "url": "https://media.newyorker.com/photos/590975168b51cf59fc422f47/master/w_2560%2Cc_limit/House-Alpha-Go-2.jpg",
+        "url": "https://www.cnet.com/a/img/resize/6acc59433f055c3e81e309b4527d23111ad23b75/hub/2016/03/15/2d3ddbe5-922e-4683-be2a-d55ee8203ba8/leesedolresignsvsalphagogame5.jpg?auto=webp&width=1920",
         "caption": "AlphaGo vs. Lee Sedol.",
-        "credit": "<a href=''>TechTarget</a>"
+        "credit": "<a href='https://www.cnet.com/tech/tech-industry/google-alphago-artificial-intelligence-victor-in-game-of-man-vs-machine/'>Cnet</a>"
       },
       "start_date": {
         "year": "2016"
@@ -127,7 +127,7 @@
       "media": {
         "url": "https://greenlogic.eu/wp-content/uploads/2021/11/bert-google-aktualizacja.png",
         "caption": "Google’s BERT language model.",
-        "credit": "<a href=''>TechTarget</a>"
+        "credit": "<a href='https://greenlogic.eu/blog/bert-new-google-algorithm-update/'>Green Logic</a>"
       },
       "start_date": {
         "year": "2018"
@@ -139,9 +139,9 @@
     },
     {
       "media": {
-        "url": "https://blog.n8n.io/content/images/size/w1200/2024/04/os-chatbots-2308--1-.jpg",
+        "url": "https://images.ctfassets.net/lzny33ho1g45/66htcVa9cVmb0Qi82tXLGC/2ee85099eb977c4be48fd0c7aa7129f6/Group_12762.jpg?fm=avif&q=31&fit=thumb&w=1520&h=760",
         "caption": "Generative AI shaping the 2020s.",
-        "credit": "<a href='https://www.techtarget.com/whatis/feature/History-and-evolution-of-machine-learning-A-timeline'>TechTarget</a>"
+        "credit": "Photo:<a href='https://zapier.com/blog/best-ai-chatbot/'>Zapier</a>"
       },
       "start_date": {
         "year": "2020"
